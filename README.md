@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Apache HTTPD Server Configuration using Ansible role.
 
 Requirements
 ------------
